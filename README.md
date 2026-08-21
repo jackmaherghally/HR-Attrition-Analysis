@@ -11,8 +11,10 @@ An interactive Power BI dashboard designed to analyze employee turnover, identif
 - **Review OverTime Policy:** Consider managing workloads or revising compensation structures.
 - **Focus on R&D Department:** Immediate intervention is required, specifically targeting Laboratory Technicians.
 - **Targeted Youth Retention:** Implement specific career growth and engagement plans for employees in their 20s and 30s.
-
-## 🛠️ Tools Used:
+  ## 🛠️ Tools Used:
 - Power BI
 - DAX
 - Data Modeling & Visualization
+
+## 🖼️ Dashboard Preview
+![HR Dashboard Preview](Screenshot (5).png)
