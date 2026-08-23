@@ -16,4 +16,4 @@ An interactive Power BI dashboard designed to analyze employee turnover, identif
 - DAX
 - Data Modeling & Visualization
  ## 🖼️ Dashboard Preview
- <img src="Screenshot (5).png" width="100%">
+ <img src="Screenshot (8).png" width="100%">
