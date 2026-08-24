@@ -1,3 +1,6 @@
+## 🖼️ Dashboard Preview
+ <img src="Screenshot (8).png" width="100%">
+
 # HR Attrition Analysis Dashboard 📊
 
 An interactive Power BI dashboard designed to analyze employee turnover, identify key attrition drivers, and provide actionable executive recommendations for HR teams.
@@ -15,5 +18,4 @@ An interactive Power BI dashboard designed to analyze employee turnover, identif
 - Power BI
 - DAX
 - Data Modeling & Visualization
- ## 🖼️ Dashboard Preview
- <img src="Screenshot (8).png" width="100%">
+ 
